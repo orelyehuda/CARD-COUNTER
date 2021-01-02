@@ -2,4 +2,4 @@
 Helper tool for counting cards in blackjack
 
 
-*YOU HAVE TO FIST KNOW BASIC STRAT*
+*YOU HAVE TO FIRST KNOW BASIC STRAT*
