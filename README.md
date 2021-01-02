@@ -6,6 +6,7 @@ Helper tool for counting cards in blackjack
 
 
 value += 1 : {2,3,4,5,6}
+
 value -= 1 : {10,J,Q,K,A}
 
 
